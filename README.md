@@ -1,5 +1,5 @@
 # project-submission-final
-Tracing the growth of the global population
+Tracing the growth of the global communication - A population forecasting analysis.
 
 Dashboard public link 1 - https://public.tableau.com/views/Dashboard1_16813086938180/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
